@@ -1,2 +1,10 @@
 # Automatic-Vacuum-Cleaner
-Self programmed vacuum cleaner 
+DESCRIPTION
+
+# How to download
+steps
+
+# Working
+asfasfasf
+# Disclaimer
+asfsfsf
